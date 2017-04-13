@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="03b02de54f4a72008eb627201310c784" sys_domain="global" table="x_uhaa2_to_do_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-11 21:12:48</sys_created_on>
+            <sys_id>673f73f14f46b2008eb627201310c74d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_to_do_table" sys_domain="global" view="Default view">03b02de54f4a72008eb627201310c784</sys_ui_section>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-11 21:12:48</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-11 21:12:48</sys_created_on>
+            <sys_id>eb3f73f14f46b2008eb627201310c74d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_to_do_table" sys_domain="global" view="Default view">03b02de54f4a72008eb627201310c784</sys_ui_section>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-11 21:12:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date_time</element>
+            <position>2</position>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-11 21:12:48</sys_created_on>
+            <sys_id>6f3f73f14f46b2008eb627201310c74d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_to_do_table" sys_domain="global" view="Default view">03b02de54f4a72008eb627201310c784</sys_ui_section>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-11 21:12:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-11 21:12:48</sys_created_on>
+            <sys_id>ef3f73f14f46b2008eb627201310c74d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_to_do_table" sys_domain="global" view="Default view">03b02de54f4a72008eb627201310c784</sys_ui_section>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-11 21:12:48</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date_time</element>
+            <position>4</position>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-11 21:12:48</sys_created_on>
+            <sys_id>633f73f14f46b2008eb627201310c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_to_do_table" sys_domain="global" view="Default view">03b02de54f4a72008eb627201310c784</sys_ui_section>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-11 21:12:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-11 21:12:48</sys_created_on>
+            <sys_id>e33f73f14f46b2008eb627201310c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_to_do_table" sys_domain="global" view="Default view">03b02de54f4a72008eb627201310c784</sys_ui_section>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-11 21:12:48</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>6</position>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-11 21:12:48</sys_created_on>
+            <sys_id>673f73f14f46b2008eb627201310c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_to_do_table" sys_domain="global" view="Default view">03b02de54f4a72008eb627201310c784</sys_ui_section>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-11 21:12:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>7</position>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-11 21:12:48</sys_created_on>
+            <sys_id>e73f73f14f46b2008eb627201310c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_to_do_table" sys_domain="global" view="Default view">03b02de54f4a72008eb627201310c784</sys_ui_section>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-11 21:12:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>8</position>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-11 21:12:48</sys_created_on>
+            <sys_id>6b3f73f14f46b2008eb627201310c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_to_do_table" sys_domain="global" view="Default view">03b02de54f4a72008eb627201310c784</sys_ui_section>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-11 21:12:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>9</position>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-12 14:45:42</sys_created_on>
+            <sys_id>7a30bb0a4fcab2008eb627201310c720</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_to_do_table" sys_domain="global" view="Default view">03b02de54f4a72008eb627201310c784</sys_ui_section>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-12 14:45:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_uhaa2_to_do_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-10 15:01:48</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>03b02de54f4a72008eb627201310c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_uhaa2_to_do_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="To-Do" source="x_uhaa2_to_do">7e4c5d614f4a72008eb627201310c71d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="To-Do">7e4c5d614f4a72008eb627201310c71d</sys_scope>
+            <sys_update_name>sys_ui_section_03b02de54f4a72008eb627201310c784</sys_update_name>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-10 15:01:48</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

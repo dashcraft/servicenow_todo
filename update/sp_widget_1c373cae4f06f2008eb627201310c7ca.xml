@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.activities_list_container{
+    background-color:#2E373E;
+    width:100%;
+}
+
+.activities_list_container li{
+    margin-bottom:1px;
+    height:84px;
+}
+
+.activities_title{
+    font-size:23px;
+    color:#F0EDED;
+}
+.activities_list_container li div{
+    display:inline-block;
+    float:left;
+}
+
+.activity .icon{
+    padding:10px 35px;
+}
+
+.activity .icon img{
+    border-radius:50%;
+    vertical-align: middle;
+}
+
+.activity .activity_info{
+    width:40%;
+    padding-top:3px;
+}
+
+.activity .activity_info p{ 
+    display:block;
+    color:#AAABAD;
+    margin:0px;
+    font-size:10px;
+}
+
+.activity .activity_info h4{
+    color:#ffffff;
+    margin-top:3px;
+    margin-bottom:0px;
+    font-size:12px;
+}
+
+.activity .activity_user img{
+    border-radius:50%;
+    display:inline-block;
+}
+
+.activity .activity_user h6{
+    color:white;
+    display:inline-block;
+    padding-left:10px;
+    font-size:10px;
+}
+
+.activity .activity_action{
+    float:right;
+    padding-right:5%;
+    padding-top:5px;
+}
+
+.activity .activity_action button{
+    border:1px solid red;
+    background-color:transparent;
+    color:red;
+    font-size:10px;
+    border-radius:5px;
+    height:30px;
+    width:120px;
+}
+</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description>Shows the recent activities associated with a technician.</description>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>dashboard-activities</id>
+        <internal>false</internal>
+        <link/>
+        <name>dashboard_activities</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>DASHCRAF</sys_created_by>
+        <sys_created_on>2017-04-13 14:34:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1c373cae4f06f2008eb627201310c7ca</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>dashboard_activities</sys_name>
+        <sys_package display_value="To-Do" source="x_uhaa2_to_do">7e4c5d614f4a72008eb627201310c71d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="To-Do">7e4c5d614f4a72008eb627201310c71d</sys_scope>
+        <sys_update_name>sp_widget_1c373cae4f06f2008eb627201310c7ca</sys_update_name>
+        <sys_updated_by>DASHCRAF</sys_updated_by>
+        <sys_updated_on>2017-04-13 14:37:26</sys_updated_on>
+        <template><![CDATA[<div class="activities_container col-md-9">
+    <div class="activities_title">
+        <h1>New Requests</h1>
+    </div>
+    <div class="activities_list_container" >
+        <li><div class="activity col-md-12">
+            <div class="icon">
+                <img src="http://placehold.it/20x20">
+            </div><div class="activity_info">
+                <p>Adkist temp in ultrasound room</p><h4>SLA Breached</h4>
+            </div><div class="activity_user">
+                <img src="http://placehold.it/40x40">
+                <h6>Mark Rothko</h6>
+            </div><div class="activity_action">
+                <button class="update_button">UPDATE PROJECT</button>
+            </div>
+            </div>  
+        </li>
+    
+
+    </div>
+</div>  ]]></template>
+    </sp_widget>
+</record_update>
