@@ -4,107 +4,122 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>status</element>
-            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eec0bf4a4fcab2008eb627201310c729</list_id>
+            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f0ef31f037563a00db59c7d1b3990e10</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>DASHCRAF</sys_created_by>
-            <sys_created_on>2017-04-12 14:48:09</sys_created_on>
-            <sys_id>6ac0bf4a4fcab2008eb627201310c72a</sys_id>
+            <sys_created_on>2017-04-20 19:38:10</sys_created_on>
+            <sys_id>4def31f037563a00db59c7d1b3990e10</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>DASHCRAF</sys_updated_by>
-            <sys_updated_on>2017-04-12 14:48:09</sys_updated_on>
+            <sys_updated_on>2017-04-20 19:38:10</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eec0bf4a4fcab2008eb627201310c729</list_id>
+            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f0ef31f037563a00db59c7d1b3990e10</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>DASHCRAF</sys_created_by>
-            <sys_created_on>2017-04-12 14:48:09</sys_created_on>
-            <sys_id>eec0bf4a4fcab2008eb627201310c72a</sys_id>
+            <sys_created_on>2017-04-20 19:38:10</sys_created_on>
+            <sys_id>c1ef31f037563a00db59c7d1b3990e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>DASHCRAF</sys_updated_by>
-            <sys_updated_on>2017-04-12 14:48:09</sys_updated_on>
+            <sys_updated_on>2017-04-20 19:38:10</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>end_date_time</element>
-            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eec0bf4a4fcab2008eb627201310c729</list_id>
+            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f0ef31f037563a00db59c7d1b3990e10</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>DASHCRAF</sys_created_by>
-            <sys_created_on>2017-04-12 14:48:09</sys_created_on>
-            <sys_id>62c0bf4a4fcab2008eb627201310c72b</sys_id>
+            <sys_created_on>2017-04-20 19:38:10</sys_created_on>
+            <sys_id>45ef31f037563a00db59c7d1b3990e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>DASHCRAF</sys_updated_by>
-            <sys_updated_on>2017-04-12 14:48:09</sys_updated_on>
+            <sys_updated_on>2017-04-20 19:38:10</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>start_date_time</element>
-            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eec0bf4a4fcab2008eb627201310c729</list_id>
+            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f0ef31f037563a00db59c7d1b3990e10</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>DASHCRAF</sys_created_by>
-            <sys_created_on>2017-04-12 14:48:09</sys_created_on>
-            <sys_id>e2c0bf4a4fcab2008eb627201310c72b</sys_id>
+            <sys_created_on>2017-04-20 19:38:10</sys_created_on>
+            <sys_id>c5ef31f037563a00db59c7d1b3990e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>DASHCRAF</sys_updated_by>
-            <sys_updated_on>2017-04-12 14:48:09</sys_updated_on>
+            <sys_updated_on>2017-04-20 19:38:10</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_on</element>
-            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eec0bf4a4fcab2008eb627201310c729</list_id>
+            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f0ef31f037563a00db59c7d1b3990e10</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>DASHCRAF</sys_created_by>
-            <sys_created_on>2017-04-12 14:48:09</sys_created_on>
-            <sys_id>66c0bf4a4fcab2008eb627201310c72b</sys_id>
+            <sys_created_on>2017-04-20 19:38:10</sys_created_on>
+            <sys_id>49ef31f037563a00db59c7d1b3990e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>DASHCRAF</sys_updated_by>
-            <sys_updated_on>2017-04-12 14:48:09</sys_updated_on>
+            <sys_updated_on>2017-04-20 19:38:10</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eec0bf4a4fcab2008eb627201310c729</list_id>
+            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f0ef31f037563a00db59c7d1b3990e10</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>DASHCRAF</sys_created_by>
-            <sys_created_on>2017-04-12 14:48:09</sys_created_on>
-            <sys_id>e6c0bf4a4fcab2008eb627201310c72b</sys_id>
+            <sys_created_on>2017-04-20 19:38:10</sys_created_on>
+            <sys_id>c9ef31f037563a00db59c7d1b3990e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>DASHCRAF</sys_updated_by>
-            <sys_updated_on>2017-04-12 14:48:09</sys_updated_on>
+            <sys_updated_on>2017-04-20 19:38:10</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>user</element>
-            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">eec0bf4a4fcab2008eb627201310c729</list_id>
+            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f0ef31f037563a00db59c7d1b3990e10</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>DASHCRAF</sys_created_by>
-            <sys_created_on>2017-04-12 14:48:09</sys_created_on>
-            <sys_id>6ac0bf4a4fcab2008eb627201310c72b</sys_id>
+            <sys_created_on>2017-04-20 19:38:10</sys_created_on>
+            <sys_id>4def31f037563a00db59c7d1b3990e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>DASHCRAF</sys_updated_by>
-            <sys_updated_on>2017-04-12 14:48:09</sys_updated_on>
+            <sys_updated_on>2017-04-20 19:38:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="x_uhaa2_to_do_table" element="NULL" name="x_uhaa2_to_do_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f0ef31f037563a00db59c7d1b3990e10</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>DASHCRAF</sys_created_by>
+            <sys_created_on>2017-04-20 19:38:10</sys_created_on>
+            <sys_id>cdef31f037563a00db59c7d1b3990e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>DASHCRAF</sys_updated_by>
+            <sys_updated_on>2017-04-20 19:38:10</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -118,10 +133,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>DASHCRAF</sys_created_by>
-            <sys_created_on>2017-04-12 14:48:09</sys_created_on>
+            <sys_created_on>2017-04-20 19:38:10</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>eec0bf4a4fcab2008eb627201310c729</sys_id>
+            <sys_id>f0ef31f037563a00db59c7d1b3990e10</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_uhaa2_to_do_table</sys_name>
             <sys_package display_value="To-Do" source="x_uhaa2_to_do">7e4c5d614f4a72008eb627201310c71d</sys_package>
@@ -130,7 +145,7 @@
             <sys_scope display_value="To-Do">7e4c5d614f4a72008eb627201310c71d</sys_scope>
             <sys_update_name>sys_ui_list_x_uhaa2_to_do_table_null</sys_update_name>
             <sys_updated_by>DASHCRAF</sys_updated_by>
-            <sys_updated_on>2017-04-12 14:48:09</sys_updated_on>
+            <sys_updated_on>2017-04-20 19:38:10</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

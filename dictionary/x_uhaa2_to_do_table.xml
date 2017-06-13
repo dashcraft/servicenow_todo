@@ -12,9 +12,19 @@
             </choice>
         </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element choice="1" label="Type" max_length="100" name="type" type="choice">
+            <choice>
+                <element label="Follow Up" sequence="0" value="follow_up"/>
+                <element label="Appointment" sequence="1" value="appointment"/>
+                <element label="Defer" sequence="2" value="defer"/>
+            </choice>
+        </element>
         <element label="User" mandatory="true" max_length="40" name="user" reference="sys_user" type="reference"/>
         <index name="index">
             <element name="number"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
         </index>
     </element>
 </database>
